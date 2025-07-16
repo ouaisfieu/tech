@@ -1,9 +1,9 @@
-baseurl: "/GPTPardi"
+baseurl: "/tech"
 url: "https://ouaisfieu.github.io"
 remote_theme: just-the-docs/just-the-docs
 
-title: "GPTPardi"
-description: "Le dico dans le vent"
+title: "DOCTech"
+description: "La doc tech"
 favicon_ico: "/favicon-96x96.png"
 
 
