@@ -168,16 +168,17 @@ Sur la même page d’agenda, la *Question orale de Mme Clémentine Barzin «�
 
 #### A.5 Références rapides
 
-1. Page Conseil communal & liens PV – Ville de Charleroi
-2. Vidéo intégrale du 23 juin 2025 – YouTube (Ville)
-3. Bloc « Documents du conseil communal » (deliberations.be)
-4. Vidéo « Apologie du terrorisme » (extrait non officiel)
-5. Vidéo Commission Culture 15 juillet – YouTube (PFWB)
-6. Agenda détaillé de la commission – pfwb.be
-7. Page générique commissions permanentes – pfwb.be
-8. Horodatage repère dans le replay conseil
-9. Archives vidéo 2025 listées sur la page Conseil
-10. ZIP archives PV antérieurs (2013‑2021)
+1. Page Conseil communal & liens PV – Ville de Charleroi ([Ville de Charleroi][3])
+2. Vidéo intégrale du 23 juin 2025 – YouTube (Ville) ([YouTube][1])
+3. Bloc « Documents du conseil communal » (lien deliberations.be) ([Ville de Charleroi][2])
+4. Vidéo « Apologie du terrorisme » (extrait non officiel) ([YouTube][6])
+5. Vidéo Commission Culture 15 juillet – YouTube (PFWB) ([YouTube][4])
+6. Agenda détaillé de la commission – pfwb.be ([pfwb.be][5])
+7. Page générique commissions permanentes – pfwb.be ([pfwb.be][7])
+8. Horodatage repère dans le replay conseil ([YouTube][1])
+9. Archives vidéo 2025 listées sur la page Conseil ([Ville de Charleroi][2])
+10. ZIP archives PV antérieurs (2013‑2021) ([Ville de Charleroi][2])
+
 
 ---
 
@@ -387,3 +388,15 @@ Done
 * Vérifie la taille des PDF : certains PV dépassent 20 Mo (utiliser `stream=True` et `chunksize` pour économiser la RAM).
 * Ajoute une gestion des réseaux intermittents (`requests.exceptions` + `retry`).
 * Les IDs ne sont pas nécessairement continus ; c’est la date qui prévaut pour l’archivage.
+
+---
+
+[1]: https://www.youtube.com/watch?v=f26MsfUbnJ4&utm_source=chatgpt.com "Charleroi, Conseil Communal du 23 juin 2025 - YouTube"
+[2]: https://www.charleroi.be/vie-communale/conseil-communal "Conseil communal | Ville de Charleroi"
+[3]: https://www.charleroi.be/vie-communale/conseil-communal?utm_source=chatgpt.com "Conseil communal | Ville de Charleroi"
+[4]: https://www.youtube.com/watch?v=k3yF-a4b7qg&utm_source=chatgpt.com "Commission de la Culture du 15/07/2025 à 10h00 - YouTube"
+[5]: https://www.pfwb.be/agendas/commissions-permanentes-2025-07-15-001823931 "commission de la Culture, de l'Education permanente, des Relations internationales, des Affaires générales, du Règlement et du Contrôle des communications des membres du Gouvernement - Parlement de la Fédération Wallonie-Bruxelles / Communauté française"
+[6]: https://www.youtube.com/watch?v=CrEP9caPzN0&utm_source=chatgpt.com "Apologie du terrorisme au Conseil Communal de CHARLEROI"
+[7]: https://www.pfwb.be/agendas/commissions-permanentes-2025-07-15-001823931?utm_source=chatgpt.com "commission de la Culture, de l'Education permanente, des Relations ..."
+
+
