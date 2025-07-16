@@ -7,7 +7,7 @@ permalink: /dossiers/animation-polarisation
 description: |
 Dans un contexte où les débats publics s’enflamment facilement – qu’il s’agisse du conflit israélo‑palestinien, de la transition climatique ou de la crise sociale – le rôle de l’animateur·rice d’éducation permanente se complexifie. Cette note propose un cadre d’analyse et des pistes d’action pour rester fidèle à la mission d’émancipation, tout en préservant l’éthique, la sécurité des publics et les valeurs démocratiques.
 
--------------------------
+---
 
 ## 1 ·  Cadre légal et mission de l’éducation permanente
 
