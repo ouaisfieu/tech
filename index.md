@@ -20,7 +20,7 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ---
 
-![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto; box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);" }
+![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);" }
 
 
 ---
