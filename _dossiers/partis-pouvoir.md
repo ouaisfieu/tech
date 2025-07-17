@@ -3,7 +3,7 @@ title: "Les partis ont‑ils trop de pouvoir ?"
 nav_order: 3
 layout: default
 permalink: /dossiers/partis-pouvoir/
-parent: Fiches
+# parent: Fiches
 
 ---
 
