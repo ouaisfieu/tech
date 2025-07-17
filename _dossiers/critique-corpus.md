@@ -1,5 +1,5 @@
 ---
-title: "Critique du corpus"
+title: "⬛ Critique du corpus"
 nav_order: 1
 layout: default
 permalink: /dossiers/critique-corpus/
@@ -16,7 +16,7 @@ permalink: /dossiers/critique-corpus/
 {:toc}
 </details>
 
-## Interroger le corpus : pourquoi et comment ?
+## ⬛ Interroger le corpus : pourquoi et comment ?
 
 Avant de produire de nouveaux livrables, il est utile de **mettre le corpus « sur le gril »** : clarifier les cadres théoriques qu’il mobilise, repérer les absences ou contradictions, puis, si besoin, renforcer la charpente conceptuelle.
 Trois finalités :
