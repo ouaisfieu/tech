@@ -7,9 +7,37 @@ toc: true
 ---
 
 
-# Dictionnaire
+# Synthèse intégrée des « Notions »
 
-Bienvenue dans votre dictionnaire thématique. Cliquez sur un terme ci-dessous.
+## TL;DR
+
+- **11 fiches → 4 axes :** Fondations opérationnelles → Création de valeur → Cadres socio‑économiques → Perspectives stratégiques.
+    
+- **Parcours conseillé :** commencer par _KPI_ & _analyse de marché_, puis monter progressivement jusqu’au _soft power_, aux _opérations stratégiques_ et au panorama de la _violence_.
+    
+- **Objectif :** disposer d’un cadre complet pour lancer, piloter et questionner un projet, en alignant performance économique, impact citoyen et lecture critique des rapports de pouvoir.
+    
+
+---
+
+## Introduction
+
+La section **Notions** rassemble onze fiches aux formats et ambitions variés — du mémo de suivi KPI au dossier géopolitique sur la violence. Cette synthèse les articule sans redondance, autour d’un fil narratif en quatre temps :
+
+1. **Agir** : s’équiper d’outils concrets (indicateurs, analyse de marché, acquisition de leads).
+    
+2. **Créer** : conjuguer valeur économique et citoyenne pour un projet durable.
+    
+3. **Comprendre** : décrypter les champs sociaux et les rapports intersectionnels qui structurent tout écosystème.
+    
+4. **Anticiper** : inscrire son action dans un environnement global marqué par le soft power, les stratégies d’influence et les violences systémiques.
+    
+
+Destinée aux porteur·euses de projets aux moyens modestes, cette synthèse fournit un **socle de référence** pour décider, mesurer et évoluer en conscience des enjeux sociétaux et géopolitiques.
+
+---
+
+
 
 
 ## En un clin d’œil
@@ -105,6 +133,8 @@ Chaque critère est noté de 1 (faible) à 5 (excellent) ; la moyenne donn
 
 
 ---
+
+
 [1]: https://ouaisfieu.github.io/tech/notions/violence/
 [2]: https://ouaisfieu.github.io/tech/notions/soft-power/
 [3]: https://ouaisfieu.github.io/tech/notions/operation-strategique/
