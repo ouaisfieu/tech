@@ -2,7 +2,7 @@
 title: "Kit express : faire bouger sa commune"
 nav_order: 11
 layout: default
-permalink: /dossiers/faire-bouger-sa-commune/
+permalink: /dossiers/bouger-sa-commune/
 ---
 
 # Table des matières
@@ -17,7 +17,6 @@ permalink: /dossiers/faire-bouger-sa-commune/
 </details> 
 
 
----
 
 
 
