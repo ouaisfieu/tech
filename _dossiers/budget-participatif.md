@@ -2,7 +2,7 @@
 title: "Budget participatif"
 nav_order: 5
 layout: default
-permalink: /dossiers/affaire-petrobras/
+permalink: /dossiers/budget-participatif/
 ---
 
 # Table des matières
