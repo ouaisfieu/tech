@@ -43,13 +43,13 @@ just_the_docs:
       name: ⚙️ MENU
       nav_fold: false
     dossiers:             # ← Même structure pour dossiers
-      name: 📂 Dossiers      # ← Nom affiché dans la navigation
+      name: 🟩 Dossiers      # ← Nom affiché dans la navigation
       nav_fold: true     # ← Mettre true si tu veux un repliement dans le menu
     belgique:
-      name: 🇧🇪 MY SPOT       # ← titre dans le menu de navigation
+      name: 🟦 BELGIQUE       # ← titre dans le menu de navigation
       nav_fold: true         # ← false = tout est affiché dans le menu, true = replié
     et-vous:
-      name: 🖕 UP YOURS
+      name: 🟥 ET QUOI ?
       nav_fold: true
 
 
