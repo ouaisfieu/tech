@@ -111,4 +111,3 @@ Le tout dans un esprit libre, éthique et collaboratif.
 
 ---
 
-*Publié sous licence CC BY-NC-SA 4.0 – libre réutilisation sauf usage commercial.*
