@@ -50,14 +50,15 @@ Pour vous aider à choisir par où commencer, voici un classement subjectif de l
 
 N’hésitez pas à me dire si vous souhaitez un plan de lecture pas à pas, des résumés supplémentaires ou des liens vers des ressources d’introduction sur les notions les plus pointues !
 
-[1]: https://ouaisfieu.github.io/tech/notions/violence/ "Violence : panorama général | DOCTech"
-[2]: https://ouaisfieu.github.io/tech/notions/soft-power/ "Le Soft Power | DOCTech"
-[3]: https://ouaisfieu.github.io/tech/notions/operation-strategique/ "Opération stratégique | DOCTech"
-[4]: https://ouaisfieu.github.io/tech/notions/champ-et-marche/ "Champ et marché | DOCTech"
-[5]: https://ouaisfieu.github.io/tech/notions/intersectionnalite.html "Intersectionnalité | DOCTech"
-[6]: https://ouaisfieu.github.io/tech/notions/creation-valeur-bis/ "Création de valeur bis | DOCTech"
-[7]: https://ouaisfieu.github.io/tech/notions/com-co/ "Com & Co | DOCTech"
-[8]: https://ouaisfieu.github.io/tech/notions/lead/ "Lead | DOCTech"
-[9]: https://ouaisfieu.github.io/tech/notions/creation-valeur/ "Création de valeur | DOCTech"
-[10]: https://ouaisfieu.github.io/tech/notions/analyse-de-marche/ "Analyse de marché | DOCTech"
-[11]: https://ouaisfieu.github.io/tech/notions/kpi/ "Indicateurs clés (KPIs) | DOCTech"
+[1]: https://ouaisfieu.github.io/tech/notions/violence/
+[2]: https://ouaisfieu.github.io/tech/notions/soft-power/
+[3]: https://ouaisfieu.github.io/tech/notions/operation-strategique/
+[4]: https://ouaisfieu.github.io/tech/notions/champ-et-marche/
+[5]: https://ouaisfieu.github.io/tech/notions/intersectionnalite
+[6]: https://ouaisfieu.github.io/tech/notions/creation-valeur-bis
+[7]: https://ouaisfieu.github.io/tech/notions/com-co/
+[8]: https://ouaisfieu.github.io/tech/notions/lead/
+[9]: https://ouaisfieu.github.io/tech/notions/creation-valeur/
+[10]: https://ouaisfieu.github.io/tech/notions/analyse-de-marche/
+[11]: https://ouaisfieu.github.io/tech/notions/kpi/
+
