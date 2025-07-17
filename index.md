@@ -39,12 +39,9 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 ## À propos
 
 DOCTech est un projet visant à :
-1. Centraliser des recherches et pistes de réflexions.
-**Pour la science**
-2. Partager librement des ressources libres.
-**Pour la postérité**
-3. Favoriser un dialogue actif entre l’intelligence humaine et l’IA.
-**Pour le reste**
+1. Centraliser des recherches et pistes de réflexions
+2. Partager librement des ressources
+
 
 Toutes les notes sont rédigées en **Markdown**, librement accessibles et basées sur des outils **"open source"**.
 Pas d'utilisation commerciale, self-service open bar pour les autres
