@@ -20,10 +20,21 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ---
 
-![Logo DOCTech](/assets/images/logo.webp){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto;" }
+![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto;" }
 
 
 ---
+
+## **🛠️ Récapitulatif des Options**
+
+| 🎮 Mode                 | ⚙️ Niveau d’implication | 🔍 Objectif                                       |
+| ----------------------- | ----------------------- | ------------------------------------------------- |
+| **🌿 Flâneur**          | 🟢 Ultra léger          | Découvrir sans prise de tête                      |
+| **🌱 Curieux Débutant** | 🟡 Léger                | Retenir quelques concepts-clés                    |
+| **🛤️ Normal**          | 🟠 Modéré               | Explorer et réfléchir sans se forcer              |
+| **⚡ Expert**            | 🔴 Exigeant             | Faire des liens entre les concepts                |
+| **🔥 Hardcore**         | ⚫ Extrême               | Déconstruire, tester et remettre tout en question |
+
 
 ## À propos
 
