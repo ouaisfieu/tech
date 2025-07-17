@@ -48,6 +48,59 @@ Pour vous aider à choisir par où commencer, voici un classement subjectif de l
 * **Monter progressivement** vers 3‑3,5 pour étoffer votre bagage conceptuel (valeur citoyenne, intersectionnalité, analyse de champ).
 * **Garder 4‑5 pour plus tard** : ils mobilisent des cadres théoriques denses et beaucoup de références externes, mais ils enrichiront fortement votre réflexion sur les rapports de domination et la stratégie globale.
 
+Après un passage systématique des 11 fiches de la section **Notions**, j’ai évalué leur *qualité éditoriale* selon cinq critères :
+
+1. **Exhaustivité & profondeur** du contenu (données chiffrées, angles multiples)
+2. **Exactitude & mise à jour** (sources datées, références externes)
+3. **Structure & clarté pédagogique** (titres parlants, pas‐à‐pas, résumés)
+4. **Appui documentaire** (citations, liens, bibliographies)
+5. **Originalité analytique** (mise en perspective, prise de recul critique)
+
+Chaque critère est noté de 1 (faible) à 5 (excellent) ; la moyenne donne la **cote globale /5**.
+
+---
+
+## Classement par qualité globale
+
+| Rang | Fiche                              | Cote /5 | Forces principales                                                                                                          | Points à renforcer                                                    |
+| ---- | ---------------------------------- | ------- | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1    | Violence : panorama général        | **4.8** | Données OMS/UNODC 2023, directive UE 2024, 9 chapitres structurés, tableaux et typologies             | Numérotation des références formelles                                 |
+| 2    | Le Soft Power                      | 4.3     | Concept de Nye contextualisé, cas internationaux variés, section critique sur colonialisme numérique  | Ajouter sources académiques et datations                              |
+| 3    | Opération stratégique              | 4.0     | Approche transversale (militaire, business, cybersécurité) avec exemples historiques concrets         | Absence de bibliographie explicite                                    |
+| 4    | Champ et marché                    | 3.4     | Compare méthodologie terrain vs analyse de marché, bons encadrés explicatifs                          | Manque de cas réels et de sources                                     |
+| 5    | Intersectionnalité                 | 3.3     | Concept défini, exemples précis, application politique                                                | Pas de références vers Crenshaw ou études empiriques                  |
+| 6    | Création de valeur bis (citoyenne) | 3.1     | Vision large (social, environnement, civique), nombreux exemples d’actions                            | Structurer en sous‑chapitres plus courts, citer études d’impact       |
+| 7    | Analyse de marché                  | 3.0     | Guide 8 étapes clair, vocabulaire simple, conseils pratiques                                          | Aucun chiffre ni source ; gagnerait à montrer un exemple chiffré      |
+| 8    | Création de valeur (business)      | 2.8     | Tour d’horizon parties prenantes, indicateurs financiers vs non financiers                            | Illustrer par cas d’entreprise et ajouter références                  |
+| 9    | Com & Co                           | 2.6     | Distinction comm/marketing bien vulgarisée, avantages/inconvénients listés                            | Pas de données, style très texte‑bloc                                 |
+| 10   | Lead                               | 2.4     | Lexique marketing complet, étapes de nurturing détaillées                                             | Aucun KPI ni cas, répétitions                                         |
+| 11   | Indicateurs clés (KPIs)            | **2.2** | Fiche mémo facile à lire, bonnes définitions                                                          | Zéro source, pas d’exemple de tableau de bord, manque d’illustrations |
+
+---
+
+## Pourquoi ces écarts ?
+
+### Les « top » (4 et +)
+
+*Ils croisent plusieurs disciplines, actualisent les chiffres et proposent une réflexion critique (ex. coût économique de la violence ou colonialisme numérique).*
+
+### Le « milieu de peloton » (3‑3,5)
+
+*Contenu utile et bien rédigé, mais peu ou pas de références externes, ce qui limite la vérifiabilité et la profondeur.*
+
+### Les « à muscler » (< 3)
+
+*Fiches très opérationnelles, parfaites en première lecture, mais quasi dépourvues de données, d’exemples concrets ou de sources — d’où une moindre crédibilité.*
+
+---
+
+## Recommandations rapides pour améliorer la qualité
+
+1. **Ajouter une courte bibliographie** (articles académiques, rapports, livres) en fin de chaque fiche.
+2. **Insérer des encadrés “Étude de cas”** avec chiffres ou mini‐histoires (ex.: performance SEO d’un blog avant/après suivi KPI).
+3. **Mettre des dates sur les données** pour montrer la fraîcheur (2024‑2025).
+4. **Uniformiser la mise en page** : titres H2/H3 réguliers, paragraphes courts, bullets pour respirer.
+5. **Introduire des visuels simples** (schémas, tableaux de synthèse) pour les fiches les moins denses.
 
 
 
