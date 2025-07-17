@@ -22,7 +22,7 @@ toc: true
 
 ## Introduction
 
-La section **Notions** rassemble onze fiches aux formats et ambitions variés — du mémo de suivi KPI au dossier géopolitique sur la violence. Cette synthèse les articule sans redondance, autour d’un fil narratif en quatre temps :
+La section **Notions** rassemble onze fiches aux formats et ambitions variés — du mémo de suivi KPI au dossier géopolitique sur la violence. Cette synthèse les articule autour d’un fil narratif en quatre temps :
 
 1. **Agir** : s’équiper d’outils concrets (indicateurs, analyse de marché, acquisition de leads).
     
