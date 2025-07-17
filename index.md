@@ -2,7 +2,7 @@
 layout: home
 title: DOCTech
 permalink: /
-description: "Petit imprécis de pseudoscience sociale"
+description: "Le petit imprécis de pseudoscience sociale"
 
 ---
 
@@ -10,9 +10,10 @@ description: "Petit imprécis de pseudoscience sociale"
 
 # DOCTech
 
-## Petit imprécis de pseudoscience sociale
+**Document d'Ordre Citoyen, et Technique**
 
-**Résultats de recherche avec l'IA**
+## Petit imprécis de pseudoscience (sociale)
+
 
 Bienvenue sur **DOCTech**, espace de diffusion de notes et de résultats de recherches assistées par intelligence artificielle.
 
@@ -20,7 +21,7 @@ Vous y trouverez des trucs en vrac, pas forcément mis à jour. Et relativement 
 
 ---
 
-![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25);" }
+![Logo DOCTech](/assets/images/logo.jpg){: style="display:block; margin: 0 auto 1.5rem; max-width:200px; height:auto; box-shadow: 0 4px 12px rgba(0, 0, 0, 0.25); border-radius: 50%;" }
 
 
 ---
