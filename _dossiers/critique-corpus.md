@@ -156,4 +156,84 @@ En suivant la feuille de route ci-dessus – glossaire, matrice, revue ciblée e
 Le corpus constitue déjà **un écosystème cohérent** liant diagnostic critique, théorie de l’empowerment, et guides opérationnels. La prochaine étape est de **passer de la connaissance à l’expérimentation**, en outillant les citoyens pour tester, mesurer et diffuser des formes de gouvernance plus ouvertes. En mobilisant l’architecture numérique existante, l’Éducation permanente et les outils de veille, le collectif peut rapidement devenir **un hub de référence** en Belgique francophone pour la démocratie participative et l’information-commun.
 
 
+## Le « Facile À Lire et à Comprendre » (FALC)
+
+### 1. Pourquoi passer en **FALC** ?
+
+Le « Facile À Lire et à Comprendre » (FALC) est un standard européen qui vise les personnes ayant une déficience intellectuelle, mais il profite aussi aux publics en situation d’illettrisme, aux apprenants FLE, aux seniors, etc. Produire des versions FALC de nos contenus est donc **une mesure d’inclusion et de démocratie culturelle** recommandée par Inclusion Europe et par la norme ISO 24495-1 :2023 sur le langage clair. ([inclusion-europe.eu][1], [ISO][2])
+
+---
+
+### 2. Règles de base FALC (rappel express)
+
+| Règle                                   | Exemples                                                                                                                                                                               |
+| --------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1. **Une idée par phrase**              | ✗ « La pilarisation résiduelle et la particratie réduisent la confiance » → ✔ « La Belgique est encore organisée en piliers. »<br>✔ « Les partis politiques ont beaucoup de pouvoir. » |
+| 2. **Mots simples, actifs**             | dire « droit » plutôt que « prérogative ».                                                                                                                                             |
+| 3. **Phrases courtes (≤ 15 mots)**      | Eviter les relatives imbriquées.                                                                                                                                                       |
+| 4. **Liste à puces**                    | trois points maximum, précédés d’icônes.                                                                                                                                               |
+| 5. **Police ≥ 14 pt, interligne 1,5**   | Aérer le texte.                                                                                                                                                                        |
+| 6. **Images / pictogrammes explicites** | Arasaac ou logos maison. ([Arasaac][3])                                                                                                                                                |
+| 7. **Validation par lecteurs-test**     | Au moins deux personnes cibles donnent leur feu vert.                                                                                                                                  |
+| 8. **Version audio & PDF balisé**       | Accessibilité numérique WCAG 2.2.                                                                                                                                                      |
+
+La plupart de ces règles figurent dans les guides FALC belges récents. ([Falc.be][4], [Inclusion ASBL][5])
+
+---
+
+### 3. Comment transposer le corpus ? — **Plan d’action en 5 étapes**
+
+| Étape                          | Objectif                                                                          | Actions clés                                                                           | Qui                               |
+| ------------------------------ | --------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | --------------------------------- |
+| **0. Cartographie**            | Lister les contenus prioritaires (glossaire, fiches « Essentiel », synthèses)     | Inventaire + classement par impact social                                              | Équipe éditoriale                 |
+| **1. Pré-production**          | Se doter d’un **guide FALC maison** (10 pages maxi)                               | - Rappel des règles<br>- Charte visuelle (couleurs, pictos)<br>- Modèles Word/InDesign | Designer + rédacteur·trice        |
+| **2. Co-simplification**       | Réécrire avec l’appui d’un « binôme FALC » (expert·e + relecteur·rice concerné·e) | - Découpage en blocs<br>- Simplification lexicale<br>- Ajout d’illustrations           | Pairs aidants + rédacteur·trice   |
+| **3. Validation**              | Vérifier la compréhension réelle                                                  | - Test de lecture (groupe de 5-8 personnes)<br>- Corrections                           | Association Inclusion / foyer ADP |
+| **4. Publication multiformat** | Rendre disponible sur **Ouaïs Fieu** & papier                                     | - PDF balisé, HTML, audio MP3<br>- Licence CC-BY                                       | Webmestre + pôle audio            |
+
+---
+
+### 4. Livrables FALC proposés (phase pilote, 3 mois)
+
+| Contenu                                            | Volume                | Format(s)                        |
+| -------------------------------------------------- | --------------------- | -------------------------------- |
+| **Glossaire “Mots-clés de la citoyenneté”**        | 30 entrées × 100 mots | PDF FALC + audio                 |
+| **6 Fiches “Essentiel”** (une par bloc thématique) | 2 pages chacune       | A4 recto-verso illustré          |
+| **Vidéo courte “Comprendre la démocratie belge”**  | 3 min                 | Motion design + sous-titres      |
+| **Kit d’atelier** (jeu de cartes pictos)           | 40 cartes             | Impression & PNG téléchargeables |
+
+---
+
+### 5. Démonstration de réécriture : *avant / version FALC*
+
+|             | Texte original                                                                                                                                                                                                  | Version FALC                                                                                                                                                                                                                                     |
+| ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Extrait** | « Un système politique opaque nourrit la défiance. Pilarisation résiduelle, particratie et complexité fédérale éloignent le citoyen des centres de décision, d’où un besoin d’outils de reddition de comptes ». | **Le système politique belge est compliqué.**<br>Beaucoup de gens ne le comprennent pas.<br>Alors, ils n’ont plus confiance.<br>**Il faut des outils simples** pour que chacun voie comment les décisions sont prises et puisse donner son avis. |
+
+---
+
+### 6. Ressources utiles
+
+* **Standards européens Easy-to-Read** (Inclusion Europe) – checklist + exemples. ([inclusion-europe.eu][6])
+* **Norme ISO 24495-1** – principes de langage clair, transposables au FALC. ([ISO][2])
+* **Guide FALC.be** – règles francophones belges + formation de traducteurs. ([Falc.be][4])
+* **Banques d’images libres** – Arasaac, thenounproject.com, Iconmonstr. ([Arasaac][3])
+
+---
+
+### 7. Prochaines étapes (dès que validé)
+
+1. **Semaine 1** – désigner le binôme pilote FALC, arrêter la charte visuelle.
+2. **Semaine 2-3** – produire le guide interne + maquette du glossaire.
+3. **Mois 2** – tests lecteurs & ajustements ; lancement des fiches « Essentiel ».
+4. **Mois 3** – publication en ligne + diffusion papier, retour d’usage.
+
+Ainsi, en trois mois, le projet disposera d’**une première collection FALC** qui ouvre réellement l’accès du savoir citoyen aux publics les plus éloignés de l’écrit, tout en posant un standard de qualité pour toutes les futures productions.
+
+[1]: https://www.inclusion-europe.eu/easy-to-read/
+[2]: https://www.iso.org/standard/78907.html?
+[3]: https://beta.arasaac.org/pictograms/search?
+[4]: https://www.falc.be/
+[5]: https://www.inclusion-asbl.be/wp-content/uploads/2025/01/Guide-FALC.pdf
+[6]: https://www.inclusion-europe.eu/easy-to-read-standards-guidelines/
 
