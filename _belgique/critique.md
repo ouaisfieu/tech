@@ -27,7 +27,7 @@ has_children: false
 ## 1. Complexité institutionnelle : le surréalisme fédéral
 
 - **Six gouvernements**, **neuf parlements**, trois blocs linguistiques et des compétences éclatées (sécurité sociale fédérale, santé communautarisée, climat régionalisé).  
-- Les formations gouvernementales s’étirent : la dernière crise a duré près de huit mois avant que Bart De Wever ne prête serment (3 février 2025), la **troisième plus longue négociation de l’histoire** :contentReference[oaicite:0]{index=0}.  
+- Les formations gouvernementales s’étirent : la dernière crise a duré près de huit mois avant que Bart De Wever ne prête serment (3 février 2025), la **troisième plus longue négociation de l’histoire**.  
 - Résultat : politiques publiques « patchwork », lenteurs administratives, sur-coûts et responsabilité diluée.
 
 ### → Enjeux
@@ -40,7 +40,7 @@ has_children: false
 ## 2. Particratie & Pillarisation 2.0
 
 - Les partis contrôlent étroitement nominations et budgets ; le citoyen vote pour des listes verrouillées.  
-- **Pillarisation** (catholique, socialiste, libérale) toujours vivace dans les médias, mutuelles, syndicats : autant de « mini-États » qui freinent la mutualisation des ressources :contentReference[oaicite:1]{index=1}.  
+- **Pillarisation** (catholique, socialiste, libérale) toujours vivace dans les médias, mutuelles, syndicats : autant de « mini-États » qui freinent la mutualisation des ressources.  
 - Conséquence : fragmentation du débat, clientélisme et difficulté à faire émerger des projets trans-communautaires.
 
 ---
@@ -52,15 +52,15 @@ has_children: false
 | Dette brute | **104,7 % du PIB** |
 | Dette par habitant | ~ 58 900 USD |
 
-*Source : Eurostat / CountryEconomy* :contentReference[oaicite:2]{index=2}  
+*Source : Eurostat / CountryEconomy*  
 
-> Sous la pression de la Commission européenne et des marchés, le nouveau gouvernement prévoit des coupes dans la sécu et un bond des dépenses militaires (NATO 2 %). 100 000 manifestants ont déjà battu le pavé bruxellois pour dénoncer cette stratégie :contentReference[oaicite:3]{index=3}.
+> Sous la pression de la Commission européenne et des marchés, le nouveau gouvernement prévoit des coupes dans la sécu et un bond des dépenses militaires (NATO 2 %). 100 000 manifestants ont déjà battu le pavé bruxellois pour dénoncer cette stratégie.
 
 ---
 
 ## 4. Croissance molle, taxation XXL
 
-- Prévisions : +0,8 % de croissance en 2025, +0,9 % en 2026 — loin de la zone euro :contentReference[oaicite:4]{index=4}.  
+- Prévisions : +0,8 % de croissance en 2025, +0,9 % en 2026 — loin de la zone euro.  
 - **Pression fiscale** parmi les plus élevées du monde développé : >55 % de « tax wedge » sur un salaire moyen.  
 - Labyrinthe de niches et de prélèvements qui décourage l’entrepreneuriat et l’emploi peu qualifié.
 
@@ -68,8 +68,8 @@ has_children: false
 
 ## 5. Mobilité : embouteillages chroniques
 
-- **Bruxelles** : 56 % de congestion moyenne, ~35 min pour 10 km en 2024 :contentReference[oaicite:5]{index=5}.  
-- **Anvers** : 71 % de congestion aux heures de pointe, rang 47 mondial :contentReference[oaicite:6]{index=6}.  
+- **Bruxelles** : 56 % de congestion moyenne, ~35 min pour 10 km en 2024.  
+- **Anvers** : 71 % de congestion aux heures de pointe, rang 47 mondial.  
 - Faible coordination inter-régionale (SNCB, De Lijn, TEC, STIB) et projets géants (RER, Oosterweel) qui s’enlisent.
 
 ---
