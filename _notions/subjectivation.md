@@ -1,6 +1,6 @@
 ---
 title: "Subjectivation"
-description: "Processus par lequel un individu devient un "sujet"
+description: "Processus par lequel un individu devient un « sujet »..."
 nav_order: 0          # position dans le menu Notions
 parent: Notions
 layout: default
