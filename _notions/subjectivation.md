@@ -8,7 +8,7 @@ permalink: /notions/subjectivation/
 
 ---
 
-> subjectivation, explique moi simplement ce concept car je ne comprend pas même en lisant la définition <cite>M&Mme Toulmonde</cite>
+> **"Subjectivation"**, explique moi simplement ce concept car je ne le comprend même pas en lisant la définition...
 
 Très bonne question, c’est un concept souvent utilisé en philosophie et en sciences sociales mais rarement expliqué simplement. Voici une version claire et accessible :
 
